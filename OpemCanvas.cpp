@@ -1,8 +1,7 @@
 #include "OpenCanvas.h"
 #include <iostream>
-#include <algorithm>
 
-//vector containing
+//vector containing shape pointer
 Memento::Memento(const std::vector<Shape*>& elements){
    std::cout << "Creating memento with " << elements.size() << " shapes...\n";
     // Create deep copies of all shapes using their clone() method
