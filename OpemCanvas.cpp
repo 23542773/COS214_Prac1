@@ -2,7 +2,7 @@
 #include <iostream>
 #include <algorithm>
 
-
+//vector containing
 Memento::Memento(const std::vector<Shape*>& elements){
    std::cout << "Creating memento with " << elements.size() << " shapes...\n";
     // Create deep copies of all shapes using their clone() method
@@ -39,8 +39,7 @@ CareTaker::~CareTaker() {
         }
     }
     history.clear();
-    
-    std::cout << "CareTaker cleanup completed\n";
+
 }
 
 
@@ -178,7 +177,7 @@ void PNGExporter::saveToFile() {
     std::cout << "PNG: Saving file as PNG format" << std::endl;
 }
 
-// Fix PDFExporter implementations (currently incomplete)
+
 void PDFExporter::prepareCanvas() {
     std::cout << "PDF: Preparing canvas for PDF export" << std::endl;
 }
