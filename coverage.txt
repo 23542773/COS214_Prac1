@@ -1,0 +1,145 @@
+File 'OpemCanvas.cpp'
+Lines executed:81.51% of 146
+Branches executed:85.71% of 126
+Taken at least once:46.03% of 126
+Calls executed:74.87% of 187
+Creating 'OpemCanvas.cpp.gcov'
+
+File '/usr/include/c++/11/iostream'
+No executable lines
+No branches
+No calls
+Removing 'iostream.gcov'
+
+File 'OpenCanvas.h'
+Lines executed:100.00% of 3
+No branches
+No calls
+Creating 'OpenCanvas.h.gcov'
+
+File '/usr/include/c++/11/bits/stl_algobase.h'
+Lines executed:96.15% of 26
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+Calls executed:100.00% of 10
+Creating 'stl_algobase.h.gcov'
+
+File '/usr/include/c++/11/bits/stl_iterator.h'
+Lines executed:100.00% of 19
+No branches
+Calls executed:100.00% of 5
+Creating 'stl_iterator.h.gcov'
+
+File '/usr/include/c++/11/ext/new_allocator.h'
+Lines executed:84.21% of 19
+No branches
+No calls
+Creating 'new_allocator.h.gcov'
+
+File '/usr/include/c++/11/bits/stl_uninitialized.h'
+Lines executed:100.00% of 15
+No branches
+Calls executed:100.00% of 3
+Creating 'stl_uninitialized.h.gcov'
+
+File '/usr/include/c++/11/bits/alloc_traits.h'
+Lines executed:100.00% of 17
+No branches
+Calls executed:100.00% of 1
+Creating 'alloc_traits.h.gcov'
+
+File '/usr/include/c++/11/bits/cpp_type_traits.h'
+Lines executed:100.00% of 2
+No branches
+No calls
+Creating 'cpp_type_traits.h.gcov'
+
+File '/usr/include/c++/11/bits/stl_vector.h'
+Lines executed:98.96% of 96
+Branches executed:100.00% of 6
+Taken at least once:50.00% of 6
+Calls executed:83.33% of 24
+Creating 'stl_vector.h.gcov'
+
+File '/usr/include/c++/11/bits/stl_iterator_base_funcs.h'
+Lines executed:100.00% of 5
+No branches
+No calls
+Creating 'stl_iterator_base_funcs.h.gcov'
+
+File '/usr/include/c++/11/bits/stl_iterator_base_types.h'
+Lines executed:100.00% of 2
+No branches
+No calls
+Creating 'stl_iterator_base_types.h.gcov'
+
+File '/usr/include/c++/11/ext/type_traits.h'
+Lines executed:100.00% of 2
+No branches
+No calls
+Creating 'type_traits.h.gcov'
+
+File '/usr/include/c++/11/bits/stl_construct.h'
+Lines executed:100.00% of 4
+No branches
+No calls
+Creating 'stl_construct.h.gcov'
+
+File '/usr/include/c++/11/bits/allocator.h'
+Lines executed:100.00% of 4
+No branches
+Calls executed:100.00% of 1
+Creating 'allocator.h.gcov'
+
+File '/usr/include/c++/11/bits/basic_string.tcc'
+Lines executed:53.85% of 13
+No branches
+No calls
+Creating 'basic_string.tcc.gcov'
+
+File '/usr/include/c++/11/bits/move.h'
+Lines executed:100.00% of 4
+No branches
+No calls
+Creating 'move.h.gcov'
+
+File '/usr/include/c++/11/bits/vector.tcc'
+Lines executed:100.00% of 27
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+Calls executed:100.00% of 6
+Creating 'vector.tcc.gcov'
+
+File '/usr/include/c++/11/bits/basic_string.h'
+Lines executed:45.45% of 11
+Branches executed:0.00% of 2
+Taken at least once:0.00% of 2
+Calls executed:0.00% of 2
+Creating 'basic_string.h.gcov'
+
+File '/usr/include/c++/11/ext/alloc_traits.h'
+Lines executed:100.00% of 2
+No branches
+No calls
+Creating 'alloc_traits.h.gcov'
+
+File '/usr/include/c++/11/bits/char_traits.h'
+Lines executed:33.33% of 12
+No branches
+No calls
+Creating 'char_traits.h.gcov'
+
+File '/usr/include/c++/11/new'
+Lines executed:100.00% of 2
+No branches
+No calls
+Creating 'new.gcov'
+
+File 'TestingMain.cpp'
+Lines executed:98.18% of 110
+Branches executed:100.00% of 398
+Taken at least once:50.00% of 398
+Calls executed:82.52% of 349
+Creating 'TestingMain.cpp.gcov'
+
+Lines executed:90.02% of 541
