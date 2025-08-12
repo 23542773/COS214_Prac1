@@ -1,6 +1,6 @@
 #include "OpenCanvas.h"
 #include <iostream>
-#include <memory>
+
 
 //test factory to strings
 void testFactoryToString() {
@@ -180,7 +180,7 @@ void testShapeSetters() {
               << " at (" << rect.getPositionX() << "," << rect.getPositionY() << ")\n";
 }
 
-//test construcgtor with parameter
+//test constructor with parameter
 void testTextboxWithText() {
     std::cout << "\n=== TESTING TEXTBOX WITH TEXT ===\n";
     Textbox tb(100, 50, "blue", 0, 0, "Initial text");
@@ -189,7 +189,7 @@ void testTextboxWithText() {
     std::cout << "After update: " << tb.getText() << "\n";
 }
 
-//test null calse
+//test null case
 void testNullCases() {
     std::cout << "\n=== TESTING NULL CASES ===\n";
     Canvas canvas;
